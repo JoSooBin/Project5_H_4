@@ -1,6 +1,7 @@
 # Project5_H_4
 테이블 레이아웃 계산기
 
+layout_span + layout_margin + layout_column 사용    
 TableRow + getText().toString() + Toast 사용  
 
 더하기   
